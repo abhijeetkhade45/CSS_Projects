@@ -2,7 +2,7 @@
 
 ![Design preview for the Bento grid coding challenge](./preview.jpg)
 
-## Welcome! 👋
+## Welcome!   n👋
 
 Thanks for checking out this front-end coding challenge.
 
